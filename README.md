@@ -34,3 +34,8 @@ In *Proceedings of the 2015 IEEE 9th International Conference on Semantic Comput
 Michael Miller Yoder. 2021.
 [Computational models of identity presentation in language](https://www.lti.cs.cmu.edu/sites/default/files/yoder%2C%20michael%20-%20Thesis.pdf).
 *Carnegie Mellon University*, 6:5–3.
+
+Michael Miller Yoder, Qinlan Shen, Yansen Wang, Alex Coda, Yunseok Jang, Yale Song, Kapil Thadani, and Carolyn P. Ros  ́e. 2020. 
+[Phans, stans and cishets: Self-presentation effects on content propagation in tumblr](https://doi.org/10.1145/3394231.3397893).
+In *12th ACM Conference on Web Science*, WebSci ’20, page 39–48, New York, NY, USA. Association for Computing Machinery.
+
