@@ -15,27 +15,27 @@ and performing tasks on it, as the dataset will end up being very large.
 
 ### References 
 
-Shabnam Behzad and Amir Zeldes. 2020.
+<a name="behzad2020">Shabnam Behzad and Amir Zeldes. 2020.</a>
 [A cross-genre ensemble approach to robust reddit part of speech tagging](https://arxiv.org/abs/2004.14312).
 *CoRR*, abs/2004.14312.
 
-Marco Guerini and Carlo Strapparava. 2016. 
+<a name="guerini2016">Marco Guerini and Carlo Strapparava. 2016.</a>
 [Why do urban legends go viral?](https://doi.org/10.1016/j.ipm.2015.05.003)
 *Information Processing & Management*, 52(1):163–172.
 
-Salman Jamali and Huzefa Rangwala. 2009. 
+<a name="jamali2009">Salman Jamali and Huzefa Rangwala. 2009.</a>
 [Digging digg: Comment mining, popularity prediction, and social network analysis](https://doi.org/10.1109/WISM.2009.15).
 In *2009 International Conference on Web Information Systems and Mining*, pages 32–38. IEEE.
 
-Monisha Kanakaraj and Ram Mohana Reddy Guddeti. 2015. 
+<a name="kanakaraj2015">Monisha Kanakaraj and Ram Mohana Reddy Guddeti. 2015.</a>
 [Performance analysis of ensemble methods on twitter sentiment analysis using nlp techniques](https://doi.org/10.1109/ICOSC.2015.7050801).
 In *Proceedings of the 2015 IEEE 9th International Conference on Semantic Computing (IEEE ICSC 2015)*, pages 169–170.
 
-Michael Miller Yoder. 2021.
+<a name="yoder2021">Michael Miller Yoder. 2021.</a>
 [Computational models of identity presentation in language](https://www.lti.cs.cmu.edu/sites/default/files/yoder%2C%20michael%20-%20Thesis.pdf).
 *Carnegie Mellon University*, 6:5–3.
 
-Michael Miller Yoder, Qinlan Shen, Yansen Wang, Alex Coda, Yunseok Jang, Yale Song, Kapil Thadani, and Carolyn P. Ros  ́e. 2020. 
+<a name="yoder2020">Michael Miller Yoder, Qinlan Shen, Yansen Wang, Alex Coda, Yunseok Jang, Yale Song, Kapil Thadani, and Carolyn P. Ros  ́e. 2020.</a>
 [Phans, stans and cishets: Self-presentation effects on content propagation in tumblr](https://doi.org/10.1145/3394231.3397893).
 In *12th ACM Conference on Web Science*, WebSci ’20, page 39–48, New York, NY, USA. Association for Computing Machinery.
 
