@@ -153,7 +153,7 @@ With the fog index, again the trendline is incredibly uncorrelated to the rest o
 
 #### 5.4 Naive-Bayes Classifier of n-grams
 
-
+For looking at the uni-, bi-, and trigrams, there is not visual representation to look at, but we can look at the most informative features. Here these all seem to be punctuation, which makes sense as, punctuation is bound to be the thing that comes up most often. Seeing exclamation points and '2022' for the 'Meme Phrases' data set makes sense, as most of those memes starting really spreading around early 2022, and garnered quite a bit of shock and attention. Looking at the set, it also seems as though the Naive-Bayes algorithm was looking at the n-grams alphabetized, and that is why it is mainly punctuation, numbers and a words featured here. This also means that the algorithm most likely did not find any largely informative features, which would imply that there are no n-grams that can really inform how well a post will do, and that other factors must be at play.
 
 **Most informative n-grams by tag**
 |Discourse|'Meme Phrases'|Dracula Daily|Our Flag Means Death|
