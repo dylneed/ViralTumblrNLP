@@ -84,8 +84,6 @@ Tumblr stores their timestamps as integer values, and that was used as the axis 
 |:---|
 |Effects of Timestamp on the Our Flag Means Death tag|
 
-Overall, it is very clear that the age of a post is not a good predictor of how likely that post is to go viral.
-
 **Accuracy of Post Timestamp for predicting notes count**
 |Tag|Accuracy|
 |:---|:---:|
