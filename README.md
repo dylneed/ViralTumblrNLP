@@ -1,6 +1,5 @@
 # Can you predict if a post/meme/idea will go viral on Tumblr?
 
-<<<<<<< HEAD
 ### Abstract
 
 Tumblr.com is a microblogging website known for its notoriously unique user base and weird content. Most NLP research done about Tumblr up to this point has been about either extremist groups, or looking at things other than the specific text of messages. Using a few different methods, this study will attempt to simply look at a wide variety of different posts to try to guess if that post went viral.
@@ -182,27 +181,13 @@ A large portion of this bias comes from the use of solely text-only posts. Since
 
 The other large source of bias comes from tag selection. In this paper, a broad set of tags was attempted to be grabbed, but no set of tags will accurately describe an entire site's culture. This limitation also prevented the plethora of non-tagged posts to completely slip through the cracks.
 
-Tumblr does not allor public access to follower count, and since it's unlikely that a certain user will post enough within the same tag to create a significant group to be looked at together. Due to this, it would be very difficult to measure how follower count affects post virality, though it is almost certain that that has a very large factor.
+Tumblr does not allow for public access to follower count, and since it's unlikely that a certain user will post enough within the same tag to create a significant group to be looked at together. Due to this, it would be very difficult to measure how follower count affects post virality, though it is almost certain that that has a very large factor.
 
 ### 7. Conclusion
 
 Overall, this study came back very negative on the original question of whether one can guess how viral a post on tumblr. None of the methods here seemed to get very accurate results. Readability was at a very similar level of accuracy to the control groups (number of tags and timestamp), and the best performance there was for each of them came from the control groups for all the tags tested. Surprisingly, testing the n-grams with the Naive-Bayes algorithm was the worst performing test. 
 
 Looking at how inaccurate everything was (the best performing metric being only 26% accurate) I think it is fairly safe to conclude that, using the methods used here, it is not possible to predict the virality of a tumblr post based solely on it's text.
-=======
-<!-- ### Abstract -->
-
-### 1. Introduction
-
-For this project, I will look at a large number of text-only posts and tags that have gone ‘viral’ on Tumblr.
-This data is not easily available, so I will need to pull the data myself, 
-but Tumblr does have an API for getting posts, so I will be using that to grab the corpus.
-I plan on mainly looking at the number of ‘notes’ a post has to determine how viral it went. 
-The number of ‘notes’ a post have is equivalent to the number of likes, ‘reblogs’, and replies the post received, 
-and I think that is a very useful tool for evaluating engagement on a large scale. 
-The biggest hurdle of this project is going to be getting the data, 
-and performing tasks on it, as the dataset will end up being very large.
->>>>>>> 55eceaafdfb8621e2a5da0e4d627853934f93391
 
 ### References
 
